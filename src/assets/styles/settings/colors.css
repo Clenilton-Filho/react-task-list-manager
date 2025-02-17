@@ -1,0 +1,11 @@
+:root{
+    --color-app-title: #8389c3;
+    --color-placeholder-text: rgb(156, 156, 156);
+    --color-add-button: #4d5187;
+    --color-text-input: #31334c;
+    --color-app-background: #222435; 
+    --color-item-border: #474a60;
+    --color-item-text: rgb(207, 203, 203);
+    --color-item-text-done: rgb(146, 146, 146);
+    --color-border-delete: #ff004c;
+}
