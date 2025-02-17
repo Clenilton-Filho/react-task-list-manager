@@ -16,3 +16,7 @@ Link to the course: https://youtu.be/hd2B7XQAFls
 - Delete all tasks at once
 - Persist tasks using localStorage
 
+## GitHub Pages
+
+GitHub Pages link for this project:
+https://clenilton-filho.github.io/react-task-list-manager/
